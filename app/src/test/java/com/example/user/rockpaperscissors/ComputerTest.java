@@ -4,8 +4,6 @@ import org.junit.Before;
 import org.junit.Test;
 import org.mockito.Mockito;
 
-import behaviours.Move;
-
 import static behaviours.Move.PAPER;
 import static org.junit.Assert.assertEquals;
 

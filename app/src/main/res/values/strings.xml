@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">RockPaperScissors</string>
+    <string name="rockbutton">ROCK</string>
+    <string name="paperbutton">PAPER</string>
+    <string name="scissorsbutton">SCISSORS</string>
+    <string name="welcome">Rock beats Scissors, Paper beats Rock, Scissors beats Paper. Make it happen!</string>
 </resources>
